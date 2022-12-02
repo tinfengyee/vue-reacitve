@@ -1,0 +1,1 @@
+git clone -b 2.6 https://github.com/vuejs/vue.git vue-source --depth=1
